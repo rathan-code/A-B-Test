@@ -19,6 +19,28 @@ A/B Test Project:
 
  - [control_group.csv](https://drive.google.com/file/d/1u3PBDQp4XJUBo8N-O-FWujiLE2nkvwTP/view?usp=sharing)
  - [test_group.csv](https://drive.google.com/file/d/1kqBlD9VPFVXzr8y1uCSgq8glssUnOKod/view?usp=sharing)
+
+
+## Exploratory Data Analysis
+
+- Importing necessary Libraries
+- Checking NULL Values
+- Filling of NULL values with mean
+- Merging the two Data sets (control_group and test_group)
+- Check whether it have Equal number of samples
+
+## A/B test 
+
+- Checking number of impressions in both Campaigns
+- Number of searches performed on website from both Campaigns
+- Number of website clicks on both Campaigns
+- Amount of content viewed from both Campaigns after reaching the website
+- Number of products added to the cart from both Campaigns
+- Amount spent on each Campaigns
+- Purchases made from each Campaigns
+- Website clicks v/s Content viewed
+- Content viewed v/s Number of products added to cart 
+- Number of products added to cart v/s Number of sales
 ## Authors
 
 - [@rathan-code](https://github.com/rathan-code)
