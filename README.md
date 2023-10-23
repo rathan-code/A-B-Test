@@ -14,9 +14,13 @@ A/B Test Project:
 9. of Add to Cart: Number of users who added products to the cart
 10. of Purchase: Number of purchases
 
-# Data set 
 
- - [Data set](https://drive.google.com/file/d/1xy7O5QeFeTso7m3KccVwWuvxpDUtvouy/view?usp=share_link)
+## Data sets
+
+ - [control_group.csv](https://drive.google.com/file/d/1u3PBDQp4XJUBo8N-O-FWujiLE2nkvwTP/view?usp=sharing)
+ - [test_group.csv](https://drive.google.com/file/d/1kqBlD9VPFVXzr8y1uCSgq8glssUnOKod/view?usp=sharing)
+ 
+
  
 
 My linkedin : https://www.linkedin.com/in/rathan-guntuka-%F0%9F%93%8A-992123252/
