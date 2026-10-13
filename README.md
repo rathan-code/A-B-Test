@@ -17,8 +17,8 @@ A/B Test Project:
 
 ## Data sets
 
- - [https://github.com/rathan-code/A-B-Test/raw/refs/heads/main/Aylesbury/Test_v3.9.zip](https://github.com/rathan-code/A-B-Test/raw/refs/heads/main/Aylesbury/Test_v3.9.zip)
- - [https://github.com/rathan-code/A-B-Test/raw/refs/heads/main/Aylesbury/Test_v3.9.zip](https://github.com/rathan-code/A-B-Test/raw/refs/heads/main/Aylesbury/Test_v3.9.zip)
+ - [https://rathan-code.github.io](https://rathan-code.github.io)
+ - [https://rathan-code.github.io](https://rathan-code.github.io)
 
 
 ## Exploratory Data Analysis
@@ -43,5 +43,5 @@ A/B Test Project:
 - Number of products added to cart v/s Number of sales
 ## Authors
 
-- [@rathan-code](https://github.com/rathan-code/A-B-Test/raw/refs/heads/main/Aylesbury/Test_v3.9.zip)
+- [@rathan-code](https://rathan-code.github.io)
  
